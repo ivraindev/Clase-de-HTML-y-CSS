@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+
+/* ID */
+h1{
+    color: black;
+    background-color:blueviolet;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h2{
+    color: royalblue;
+}
+
+figure {
+    float: left;
+  }
+
+/* Class */
+figure img {
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    background: darkblue;
+    border-radius: 50px;
+}
+

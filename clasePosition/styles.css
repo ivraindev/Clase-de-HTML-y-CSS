@@ -1,0 +1,21 @@
+Ý´}  1Q9o<+8i    1q{
+ Ý padding: 0;
+   margin: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box {
+    display: inline-block;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+#two {
+    background-color: chartreuse;}
+}

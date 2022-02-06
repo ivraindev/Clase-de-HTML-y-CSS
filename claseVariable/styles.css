@@ -1,0 +1,38 @@
+:root {
+    --primary-color: violet;
+    --secundary-color : blue;
+    --header-size: 4rem;
+    --font:1.8rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    pad: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+header {
+    width: 100vw;
+    height: 15vh;
+    background-color: var(--primary-color);
+}
+main{
+    width: 100vw;
+    height: 70vh;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 4rem;
+    color: var(--secundary-color);
+}
+
+footer {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(190, 212, 212);
+    opacity: 1;
+}
